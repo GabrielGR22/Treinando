@@ -10,3 +10,5 @@ Acho que vou desistir. :( Estou muito triste. Estou chorando de tristeza.
 As lágrimas caiem pelo meu rosto !
 Não consigo nem juntar os galhos :(
 Mas eu vou conseguir ! Não me faça de bobo ! >:(
+E eu sei que também vou conseguir fazer um fork e um pull request. Depois de 
+ter aprendido sobre commit, branches, commit hash, merge. Isso vai ser moleza.
